@@ -69,6 +69,7 @@ def process_omr():
         bubbled = None
         selected_circles = []
 
+
         # cv2.drawContours(image, cnts, -1, (0, 255, 0), 2)
         # cv2.imshow("draw", image)
         # cv2.waitKey(0)
